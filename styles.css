@@ -1,0 +1,202 @@
+div#jumbo1.jumbotron{
+  margin:20px;
+  padding:19px;
+  border-radius:30px;
+  text-align:center;
+}
+
+.jumbotron h1{
+  font-family:'Sedgwick Ave Display';
+  color:rgb(197,11,11);
+}
+
+.jumbotron p{
+  color:rgb(0,1,0);
+}
+
+@media (max-width:767px) {
+  div#jumbo1.jumbotron{
+    margin-top:20px;
+  }
+}
+
+#carousel-1{
+  margin-top:0px;
+}
+
+img.slid{
+  max-height:601px;
+}
+
+div.col-md-4{
+  margin-left:50px;
+}
+
+div.col-md-4{
+  margin-left:152px;
+}
+
+@media (max-width:767px) {
+  div.thumbnail{
+    margin-right:50px;
+    margin-left:-94px;
+  }
+}
+
+img{
+  max-height:235px;
+}
+
+footer{
+  margin-top:-97px;
+}
+
+.top{
+  background-color:rgb(255,6,6);
+}
+
+div.col-md-4.col-sm-6.footer-contacts{
+  margin-left:0px;
+}
+
+div.col-md-4.col-sm-6.footer-navigation{
+  margin-left:0px;
+}
+
+footer{
+  margin-top:-13px;
+  padding-top:20px;
+}
+
+@media (max-width:767px) {
+  div.row{
+    margin-bottom:-83px;
+  }
+}
+
+@media (max-width:991px) {
+  div.col-md-4{
+    margin-left:0px;
+  }
+}
+
+@media (max-width:767px) {
+  div.col-md-4{
+    margin-left:141px;
+  }
+}
+
+@media (max-width:1199px) {
+  div.col-md-4{
+    margin-left:123px;
+  }
+}
+
+@media (max-width:1199px) {
+  img{
+    max-height:201px;
+  }
+}
+
+@media (max-width:767px) {
+  div.thumbnail{
+    margin-left:-68px;
+  }
+}
+
+@media (max-width:991px) {
+  div.thumbnail{
+    margin-left:-101px;
+    margin-right:19px;
+  }
+}
+
+#promo{
+  background-image:url("../../assets/img/why-choose-a-private-gp-and-healthcare-services-broadgate-gp-pertaining-to-banner-health-care.jpg");
+  padding:20px;
+  margin-bottom:38px;
+}
+
+.jumbotron{
+  background-color:rgba(255,255,255,0.69);
+}
+
+a.btn.btn-default{
+  color:rgb(247,10,10);
+}
+
+#logo{
+  max-height:38px;
+  display:inline;
+}
+
+img.top{
+}
+
+.head{
+  text-align:center;
+  margin:30px;
+  color:rgb(72,13,241);
+  font-family:cursive;
+}
+
+h1.text-center{
+  font-size:65px;
+  margin-left:28px;
+}
+
+div#heading.container{
+  margin-left:21px;
+  padding:40px;
+}
+
+img.found{
+  border-radius:57px;
+  margin-left:71px;
+  margin-top:28px;
+  max-height:110px;
+}
+
+@media (max-width:767px) {
+  h1.text-center{
+    margin-left:-15px;
+  }
+}
+
+div.col-md-3.footer-about{
+  margin-left:47px;
+}
+
+@media (max-width:1199px) {
+  img.found{
+    border-radius:57px;
+    margin-left:49px;
+    margin-top:28px;
+    max-height:110px;
+  }
+}
+
+@media (max-width:767px) {
+  img.found{
+    border-radius:57px;
+    margin-left:78px;
+    margin-top:28px;
+    max-height:110px;
+    margin-bottom:1px;
+  }
+}
+
+img.company{
+  max-height:77px;
+  margin-top:25px;
+}
+
+p.links{
+  font-size:23px;
+}
+
+img.slid{
+  margin-top:49px;
+  margin-bottom:49px;
+}
+
